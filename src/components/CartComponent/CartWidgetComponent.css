@@ -1,0 +1,20 @@
+.cart img{
+    width: 50px;
+    height: 50px;
+}
+
+.cart button{
+    border: none;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.cart span{
+    background-color: #932E92;
+    color: white;
+    border-radius: 50%;
+    padding: 1px 4px;
+    position: relative;
+    bottom: 10px;
+    right: 20px;
+}

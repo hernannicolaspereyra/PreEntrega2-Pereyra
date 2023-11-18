@@ -1,0 +1,16 @@
+.item-detail-container{
+    padding: 120px 20px 0 20px;
+}
+
+.tarjeta-detail{
+    border: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.tarjeta-detail img{
+    width: 20rem;
+}
